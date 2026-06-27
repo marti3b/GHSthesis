@@ -1,0 +1,68 @@
+# Keyword list for congruence analysis
+# One keyword or phrase per line
+# Lines starting with # are ignored
+# Keywords are case-insensitive
+
+**NP terms:**
+Unconditional
+donor
+ODA 
+voluntary contribution
+Global Fund
+Gavi
+WHO financing
+Needs
+solidarity
+equity
+equitable
+equitably
+universal health coverage
+multilateral
+human rights
+collective
+shared
+vulnerable
+leaving no one behind
+global common good
+burden sharing
+development cooperation
+capacity building
+humanitarian
+needs-based
+low and middle income
+global public good
+universal protection
+moral obligation
+human dignity
+
+**SA terms:**
+EU priorities
+commensurate with contributions
+co-investment
+strategic 
+conditions
+strategic autonomy
+resilience
+resilient
+preparedness
+dependencies
+supply chain
+supply chain diversification
+health sovereignty
+geopolitical
+security
+countermeasures
+self-sufficiency
+open strategic autonomy
+strategic resilience
+strategic priorities
+supply shortages
+diversify
+external dependencies
+medical countermeasures
+stockpiling
+HERA
+pharmaceutical production
+vulnerabilities
+border closures
+critical infrastructure
