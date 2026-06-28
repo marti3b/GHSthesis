@@ -35,4 +35,3 @@ diversify
 external dependencies
 medical countermeasures
 stockpiling
-pharmaceutical production
